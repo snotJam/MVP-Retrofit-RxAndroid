@@ -21,7 +21,7 @@ import rx.schedulers.Schedulers;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static final String URLHOST= "http://115.182.45.37:8087/bwlcapp-bigdata/handle/";
+    public static final String URLHOST= "your request url";
     private static final String TAG = "MainActivity";
     private TextView tv_btn;
     @Override

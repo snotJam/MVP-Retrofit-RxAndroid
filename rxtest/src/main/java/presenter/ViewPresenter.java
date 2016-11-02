@@ -25,7 +25,7 @@ import view.BaseView;
  */
 public class ViewPresenter implements BasePresenter {
     private ViewActivity view;
-    public static final String URLHOST = "http://115.182.45.37:8087/bwlcapp-bigdata/handle/";
+    public static final String URLHOST = "your request url";
 
     public void setView(BaseView view) {
         this.view = (ViewActivity) view;
